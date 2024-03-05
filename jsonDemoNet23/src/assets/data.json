@@ -1,0 +1,17 @@
+{
+    "user": "Fady",
+    "projects": [
+        {
+            "name": "My First Project",
+            "description": "Skapad 2023"
+        },
+        {
+            "name": "My Second Project",
+            "description": "Skapad 2024"
+        }
+    ],
+    "Arbete": [
+        {"workplace": "chas academy"},
+        {"workplace": "Qlok"}
+    ]
+}
